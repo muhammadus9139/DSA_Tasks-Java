@@ -1,1 +1,7 @@
 
+here is the Binary search tree BST 
+and include insert search and delete methods
+and pre in and post traversals 
+Make a separate node class
+and make insert search and delete method simple for values to easily point root without pointing root every time when call
+we only need to call simple search delete and insert methods
