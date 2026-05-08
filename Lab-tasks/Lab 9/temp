@@ -5,3 +5,10 @@ and pre in and post traversals
 Make a separate node class
 and make insert search and delete method simple for values to easily point root without pointing root every time when call
 we only need to call simple search delete and insert methods
+
+
+And here is the AVL complete 
+Insertion deletion traversal
+Search findMIn for deletion for two childrens
+height and balance factor and rotations of left and right 
+and LL RR LR RL roations too
