@@ -1,0 +1,12 @@
+
+Here is the Max heap with
+Insertion (Heapify up)
+Deletion from root using (Heapify down)
+Search
+Swap
+Delete specific value (Uisng value not position)
+Buildheap
+Heap sort
+Print heap
+
+Min heap is also same only difference is < in min
