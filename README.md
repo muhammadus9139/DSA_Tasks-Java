@@ -20,6 +20,7 @@ Priority Queue with array
 Singly linkedlist
 Doubly LinkedList
 Circular LinkedList
+Dequeue
 Trees
 Binary tree
 BST
