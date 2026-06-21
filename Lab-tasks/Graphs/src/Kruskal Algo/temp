@@ -1,0 +1,7 @@
+3. Kruskal Algorithm (MST - Union Find)
+
+👉 Edges sort karo + cycle avoid karo
+
+🧠 Idea:
+Sab edges ko sort karo
+Agar cycle nahi banti → add edge
