@@ -1,0 +1,7 @@
+1. Dijkstra Algorithm (Shortest Path)
+
+👉 Single source se sab nodes ka shortest path (negative weights NOT allowed)
+
+🧠 Idea:
+Greedy + Priority Queue use hoti hai
+Har step pe nearest node pick
