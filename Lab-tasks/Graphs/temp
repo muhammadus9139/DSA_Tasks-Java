@@ -1,0 +1,19 @@
+Its undirectd graph bfs dfs and adjacency list 
+
+There is a little difference in their codes 
+1. Undirected Graph
+
+//Edge dono sides jata hai
+
+void addEdge(int v, int w) {
+    adj[v].add(w);
+    adj[w].add(v);  // reverse edge bhi add hota hai
+}
+
+2. Directed Graph
+
+// Edge sirf ek direction mein hota hai
+
+void addEdge(int v, int w) {
+    adj[v].add(w);  // sirf one side
+}
