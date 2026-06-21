@@ -1,0 +1,7 @@
+2. Prim’s Algorithm (MST - Minimum Spanning Tree)
+
+👉 Graph ke sab nodes connect karna minimum cost pe
+
+🧠 Idea:
+Start from any node
+Always pick minimum weight edge
